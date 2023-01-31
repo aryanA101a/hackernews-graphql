@@ -9,7 +9,7 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
 	hackernews "github.com/aryanA101a/hackernews-graphql/graph"
-	"github.com/aryanA101a/hackernews-graphql/internal/pkg/db/migrations/mysql"
+	"github.com/aryanA101a/hackernews-graphql/internal/pkg/db/mysql"
 )
 
 const defaultPort = "8080"
